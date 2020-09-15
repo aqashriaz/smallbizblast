@@ -1,0 +1,15 @@
+[10-Feb-2019 14:03:57 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[08-Apr-2019 22:34:39 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[08-Apr-2019 22:34:42 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[20-Oct-2019 14:20:41 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eliniyzx/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[26-Oct-2019 12:26:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/eliniyzx/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[16-Nov-2019 15:17:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/twentysixteen/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/eliniyzx/public_html/wp-content/themes/twentysixteen/index.php on line 17

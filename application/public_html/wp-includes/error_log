@@ -1,0 +1,4 @@
+[26-Oct-2019 12:28:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/eliniyzx/public_html/wp-includes/session.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/eliniyzx/public_html/wp-includes/session.php on line 8

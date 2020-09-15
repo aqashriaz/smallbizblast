@@ -1,0 +1,320 @@
+.header2{
+	font-family:BentonSans-Bk;
+}
+.header_cont{
+font-family:BentonSans-Bk;
+ font-size:26px; 
+ line-height:16px;
+}
+.icon_social{
+	font-size: 22px;
+}
+.icon_social a icon:hover 
+{
+    color:blue !important;
+    background:gray !important;
+}
+.cont_header_2{
+	font-family:BentonSans-Bk; 
+	line-height:18px;
+}
+.timer_count{
+	font-family:BentonSans-Bk;
+	font-size:16px; 
+	line-height:18px;
+}
+.south_ogden{
+	 font-family:BentonSans-Bk; 
+	 font-size: 30px;
+	 font-weight:bold; 
+	 text-align:center;
+	 color: #006fcf;
+}
+.cont_center{
+	font-family:BentonSans-Bk; 
+	font-size:20px; 
+	line-height: 10px;
+}
+
+.cont_center1{
+	font-family:BentonSans-Bk; 
+	font-size:20px; 
+	line-height: 15px;
+}
+.blue_color
+{
+background-color: #006FCF;
+}
+.body_header_logo
+{
+	font-family:BentonSans-Bk; 
+	font-size:12px; 
+	line-height:18px;
+}
+.supported_img1
+{
+	font-size:18px;
+	margin-bottom:-10px;
+}
+.supported_img_lib{
+	width: 50%; 
+	height: 50%;"
+}
+.main_logo_center{
+	width: 80%;
+	height:80%;
+}
+.about_description1{
+	margin-top: 20px !important;
+	font-family:BentonSans-Bk; 
+	font-size:16px;
+	line-height:20px;
+}
+.business_deal1
+{
+	 text-align:center;
+	 background-color: #006FCF;
+	 width: 100%;
+}
+.margin_text1
+{
+	margin: 0 4px 16px -2px;
+	font-family:BentonSans-Bk;
+	font-size:18px; 
+	line-height:20px;
+}
+
+.margin_text2{
+	font-family:BentonSans-Bk;
+	line-height:20px;
+	font-size:18px; 
+}
+.btn_design1{
+	width: 100%;
+	background-color: #006FCF;
+}
+.location1{
+font-size: 48px;
+}
+.footer1{
+	font-family:BentonSans-Bk; 
+	font-size:18px; 
+	line-height:20px;
+}
+
+
+.img_head_logo2{
+	width: 40%;
+}
+
+.service2{
+	font-family:BentonSans-Bk;
+	font-size:22px;
+	text-align:center;
+}
+
+.card_bobs1{
+	font-family:BentonSans-Bk;
+	font-size:20px;
+	font-weight:bold;
+	line-height:20px;
+}
+.btn_bob1{
+	background-color: #006FCF;
+}
+.body_bob2{
+	font-family:BentonSans-Bk;
+	font-size:18px; 
+	line-height:20px; 
+	align-content: justify-content;
+}
+.email_card1
+{
+	border: reactangle; 
+	background-color: #006FCF;
+}
+.img_card1{
+	width:50%;
+}
+
+.font_btn2{
+	font-family:BentonSans-Bk; 
+	font-size:20px;
+	background-color: #006FCF;
+}
+.font_btn3{
+	color: white;
+	font-size: 50px;
+}
+.color2{
+color: #006FCF;
+}
+
+.table_box2{
+	border-top: solid 1px;
+	border-bottom: dotted 1px;
+}
+.row_123{
+	border-top: dotted 1px;
+}
+
+
+/* Master admin page designing */
+.top_margin1
+{
+	margin-top: 150px;
+}
+
+
+.headers5 li a {
+  display: block;
+  text-decoration: none;
+  color: #006fcf;
+  text-align: left;
+  font-size: 20px;
+}
+
+.headers5 li a:hover {
+  text-decoration: none;
+  color: black;
+  background: rgba(255, 255, 255, 0.2);
+}
+
+
+.selector1{
+	font-family:BentonSans-Bk;
+width: 220px !important;
+height: 80px;
+font-size: 14px;
+    border-radius: 5px;
+
+}
+
+
+
+.textarea1 {
+    font-size: .8rem;
+    letter-spacing: 1px;
+}
+.textarea1 {
+    padding: 10px;
+    line-height: 1.5;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-shadow: 1px 1px 1px #999;
+}
+.pb_ogden1{
+		 font-family:BentonSans-Bk; 
+	 font-size: 30px;
+	 font-weight:bold; 
+	 color: #006fcf;
+	 line-height: 14px;
+	 margin-bottom: 50px;
+}
+.pb_particpating1{
+ font-family:BentonSans-Bk; 
+	 font-size: 30px;
+	 font-weight:bold; 
+	 line-height: 14px;	
+}
+.margin_btn6{
+ font-family:BentonSans-Bk; 
+margin-top: 70%;	
+}
+.textarea2{
+	width: 100%;
+	height: 120px;
+   border-radius: 5px;
+
+}
+
+.boxnotice1{
+	 font-family:BentonSans-Bk; 
+	border: solid 1px;
+	border-radius: 5px;
+	opacity: 1
+}
+
+
+.margin_btn5{
+ font-family:BentonSans-Bk; 
+margin-top: 10%;	
+}
+.selector4
+{
+
+	width: 100%;
+	height: 150px !important;
+	text-align: left;
+	font-family:BentonSans-Bk;
+	font-size: 14px;
+    border-radius: 5px;
+    margin-left: auto;
+
+}
+.selector2{
+	width: 55%;
+	height: 150px !important;
+	text-align: left;
+	font-family:BentonSans-Bk;
+	font-size: 14px;
+    border-radius: 5px;
+    margin-left: auto;
+}
+.signupheader1
+{
+	font-family:BentonSans-Bk;
+	font-size: 18px;
+	margin-top: 25px;
+
+}
+.lineheightheader{
+	font-family:BentonSans-Bk;
+	font-size: 18px;
+
+}
+
+
+.adminsitrative_notice1
+{
+	background-color: #006FCF;
+	width: 100%;
+	font-family:BentonSans-Bk; 
+	border: solid 1px;
+	border-radius: 5px;
+	opacity: 1;
+	color: white;
+}
+
+.blue_color2
+{
+background-color: #006FCF !important;
+}
+
+.margin_btn8{
+ font-family:BentonSans-Bk; 
+margin-top: 70%;	
+}
+
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+  .margin_btn8{
+margin-top: 5%
+  }
+}
+
+@media (max-width: 768px) {
+    #sidebar {
+        display: none;
+    }
+    .pb_particpating1{
+ font-family:BentonSans-Bk; 
+	 font-size: 30px;
+	 font-weight:bold; 
+	 line-height: 30px;	
+}
+}

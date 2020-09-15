@@ -1,0 +1,25 @@
+[13-May-2019 12:10:25 UTC] PHP Fatal error:  Class 'Jetpack' not found in /home/eliniyzx/public_html/wp-content/plugins/td-cloud-library/includes/tdb_config.php on line 25431
+[28-Apr-2020 04:20:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_columns() on null in /home/eliniyzx/public_html/wp-content/plugins/wpematico/app/settings_page.php:141
+Stack trace:
+#0 /home/eliniyzx/public_html/wp-includes/class-wp-hook.php(286): wpematico_settings(Array)
+#1 /home/eliniyzx/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/eliniyzx/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/eliniyzx/public_html/wp-content/plugins/wpematico/app/wpematico_functions.php(1488): do_action('wpematico_setti...', Array)
+#4 /home/eliniyzx/public_html/wp-includes/class-wp-hook.php(286): wpematico_process_actions('')
+#5 /home/eliniyzx/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /home/eliniyzx/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /home/eliniyzx/public_html/wp-admin/admin-post.php(29): do_action('admin_init')
+#8 {main}
+  thrown in /home/eliniyzx/public_html/wp-content/plugins/wpematico/app/settings_page.php on line 141
+[03-May-2020 08:46:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_columns() on null in /home/eliniyzx/public_html/wp-content/plugins/wpematico/app/settings_page.php:141
+Stack trace:
+#0 /home/eliniyzx/public_html/wp-includes/class-wp-hook.php(286): wpematico_settings(Array)
+#1 /home/eliniyzx/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /home/eliniyzx/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /home/eliniyzx/public_html/wp-content/plugins/wpematico/app/wpematico_functions.php(1488): do_action('wpematico_setti...', Array)
+#4 /home/eliniyzx/public_html/wp-includes/class-wp-hook.php(286): wpematico_process_actions('')
+#5 /home/eliniyzx/public_html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#6 /home/eliniyzx/public_html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#7 /home/eliniyzx/public_html/wp-admin/admin-post.php(29): do_action('admin_init')
+#8 {main}
+  thrown in /home/eliniyzx/public_html/wp-content/plugins/wpematico/app/settings_page.php on line 141

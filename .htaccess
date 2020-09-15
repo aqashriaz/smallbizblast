@@ -1,0 +1,13 @@
+<IfModule mod_php5.c>
+	php_value max_input_vars  3000
+	##php_value max_file_uploads 30
+	##php_value upload_max_filesize 900M
+	##php_value post_max_size 2400M
+</IfModule>
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php?/$1 [L]
+</IfModule>

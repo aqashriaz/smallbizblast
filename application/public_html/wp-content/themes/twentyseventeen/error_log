@@ -1,0 +1,25 @@
+[20-Oct-2019 02:02:17 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/eliniyzx/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/eliniyzx/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[22-Oct-2019 23:40:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eliniyzx/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[26-Oct-2019 12:26:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/twentyseventeen/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/eliniyzx/public_html/wp-content/themes/twentyseventeen/404.php on line 13
+[06-Nov-2019 02:29:27 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/eliniyzx/public_html/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/eliniyzx/public_html/wp-content/themes/twentyseventeen/footer.php on line 22
+[16-Nov-2019 15:17:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/twentyseventeen/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/eliniyzx/public_html/wp-content/themes/twentyseventeen/index.php on line 18
+[12-Dec-2019 23:52:39 America/New_York] PHP Notice:  Undefined index: wp_version in /home/eliniyzx/public_html/wp-content/themes/twentyseventeen/functions.php on line 15
+[12-Dec-2019 23:52:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/eliniyzx/public_html/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/eliniyzx/public_html/wp-content/themes/twentyseventeen/functions.php on line 16

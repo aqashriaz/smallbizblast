@@ -1,0 +1,8 @@
+[16-Nov-2019 15:16:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/twentynineteen/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/eliniyzx/public_html/wp-content/themes/twentynineteen/index.php on line 17
+[02-Dec-2019 15:45:02 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/twentynineteen/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/eliniyzx/public_html/wp-content/themes/twentynineteen/index.php on line 17

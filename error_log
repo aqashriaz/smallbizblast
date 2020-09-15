@@ -1,0 +1,4 @@
+[04-Nov-2019 06:29:28 America/Chicago] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home3/neelumsoft/public_html/jedevereux/application/helpers/common_helper.php on line 11
+[16-Nov-2019 06:01:21 America/Chicago] PHP Fatal error:  Cannot redeclare get_investments_by_month() (previously declared in /home3/neelumsoft/public_html/jedevereux/application/helpers/graph_helper.php:3) in /home3/neelumsoft/public_html/jedevereux/application/helpers/graph_helper.php on line 116
+[16-Nov-2019 09:43:23 America/Chicago] PHP Fatal error:  Constant expression contains invalid operations in /home3/neelumsoft/public_html/jedevereux/application/controllers/User.php on line 19
+[23-Jan-2020 21:16:27 Europe/London] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 218120192 bytes) in /home3/neelumsoft/public_html/jedevereux/system/core/Exceptions.php on line 271

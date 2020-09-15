@@ -1,0 +1,4 @@
+[27-Dec-2019 08:15:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_basename() in /home/eliniyzx/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/eliniyzx/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19

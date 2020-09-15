@@ -1,0 +1,16 @@
+[01-May-2020 12:51:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_dir_path() in /home/eliniyzx/public_html/wp-content/plugins/jetpack/jetpack.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eliniyzx/public_html/wp-content/plugins/jetpack/jetpack.php on line 20
+[01-May-2020 12:52:01 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_dir_path() in /home/eliniyzx/public_html/wp-content/plugins/jetpack/jetpack.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eliniyzx/public_html/wp-content/plugins/jetpack/jetpack.php on line 20
+[02-May-2020 00:27:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_dir_path() in /home/eliniyzx/public_html/wp-content/plugins/jetpack/jetpack.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eliniyzx/public_html/wp-content/plugins/jetpack/jetpack.php on line 20
+[02-May-2020 06:15:38 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_dir_path() in /home/eliniyzx/public_html/wp-content/plugins/jetpack/jetpack.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/eliniyzx/public_html/wp-content/plugins/jetpack/jetpack.php on line 20

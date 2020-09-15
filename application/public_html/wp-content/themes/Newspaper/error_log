@@ -1,0 +1,89 @@
+[01-Feb-2019 17:44:02 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php on line 6
+[01-Feb-2019 19:27:42 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php on line 6
+[07-Feb-2019 05:25:35 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php on line 6
+[07-Feb-2019 05:30:39 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php on line 6
+[27-Feb-2019 08:53:24 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php on line 6
+[23-Mar-2019 16:04:29 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php on line 6
+[29-Mar-2019 07:41:53 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php on line 6
+[12-Apr-2019 04:18:14 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php on line 6
+[18-May-2019 11:08:13 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php on line 6
+[07-Jun-2019 16:16:46 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php on line 6
+[30-Jun-2019 04:43:26 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php on line 6
+[30-Jun-2019 09:30:09 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php on line 6
+[20-Jul-2019 03:06:18 America/New_York] PHP Fatal error:  Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php on line 6
+[05-Aug-2019 16:59:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php on line 6
+[15-Aug-2019 10:33:58 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php on line 6
+[24-Aug-2019 08:06:39 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php on line 6
+[05-Sep-2019 05:04:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php on line 6
+[17-Sep-2019 00:44:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php on line 6
+[23-Oct-2019 23:55:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php on line 6
+[31-Oct-2019 18:51:05 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php on line 6
+[10-Nov-2019 18:53:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php on line 6
+[12-Nov-2019 14:26:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php on line 6
+[01-Jan-2020 06:56:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php on line 6
+[05-Feb-2020 06:02:44 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php on line 6
+[20-Feb-2020 04:30:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php on line 6
+[20-Feb-2020 12:13:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php on line 6
+[22-Feb-2020 21:42:35 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php on line 6
+[04-Mar-2020 23:25:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php on line 6
+[17-Mar-2020 16:29:34 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php on line 6
+[20-Mar-2020 05:45:29 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php on line 6
+[25-Mar-2020 16:22:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php on line 6
+[24-Apr-2020 23:45:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/eliniyzx/public_html/wp-content/themes/Newspaper/index.php on line 6
